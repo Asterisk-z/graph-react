@@ -1,0 +1,777 @@
+{
+    "nodes": [
+        {
+            "id": "1",
+            "title": "TypeScript",
+            "tags": [
+                "programming",
+                "typescript"
+            ],
+            "description": "A typed superset of JavaScript"
+        },
+        {
+            "id": "2",
+            "title": "JavaScript",
+            "tags": [
+                "programming"
+            ],
+            "description": "Language of the web"
+        },
+        {
+            "id": "3",
+            "title": "React",
+            "tags": [
+                "framework",
+                "javascript"
+            ],
+            "description": "UI library for building web apps"
+        },
+        {
+            "id": "4",
+            "title": "Node.js",
+            "tags": [
+                "runtime",
+                "javascript"
+            ],
+            "description": "JavaScript runtime environment"
+        },
+        {
+            "id": "5",
+            "title": "Express.js",
+            "tags": [
+                "framework",
+                "node"
+            ],
+            "description": "Web framework for Node.js"
+        },
+        {
+            "id": "6",
+            "title": "Vue.js",
+            "tags": [
+                "framework",
+                "javascript"
+            ],
+            "description": "Progressive JavaScript framework"
+        },
+        {
+            "id": "7",
+            "title": "Angular",
+            "tags": [
+                "framework",
+                "typescript"
+            ],
+            "description": "Full-featured web framework"
+        },
+        {
+            "id": "8",
+            "title": "Python",
+            "tags": [
+                "programming"
+            ],
+            "description": "High-level programming language"
+        },
+        {
+            "id": "9",
+            "title": "Django",
+            "tags": [
+                "framework",
+                "python"
+            ],
+            "description": "Web framework for Python"
+        },
+        {
+            "id": "10",
+            "title": "Flask",
+            "tags": [
+                "framework",
+                "python"
+            ],
+            "description": "Lightweight Python web framework"
+        },
+        {
+            "id": "11",
+            "title": "C++",
+            "tags": [
+                "programming"
+            ],
+            "description": "Systems programming language"
+        },
+        {
+            "id": "12",
+            "title": "C#",
+            "tags": [
+                "programming"
+            ],
+            "description": "Language for .NET framework"
+        },
+        {
+            "id": "13",
+            "title": "Java",
+            "tags": [
+                "programming"
+            ],
+            "description": "Platform-independent language"
+        },
+        {
+            "id": "14",
+            "title": "Spring Boot",
+            "tags": [
+                "framework",
+                "java"
+            ],
+            "description": "Java web framework"
+        },
+        {
+            "id": "15",
+            "title": "Ruby",
+            "tags": [
+                "programming"
+            ],
+            "description": "Dynamic, object-oriented language"
+        },
+        {
+            "id": "16",
+            "title": "Rails",
+            "tags": [
+                "framework",
+                "ruby"
+            ],
+            "description": "Web framework for Ruby"
+        },
+        {
+            "id": "17",
+            "title": "Go",
+            "tags": [
+                "programming"
+            ],
+            "description": "Statically typed compiled language"
+        },
+        {
+            "id": "18",
+            "title": "Rust",
+            "tags": [
+                "programming"
+            ],
+            "description": "Memory-safe systems programming language"
+        },
+        {
+            "id": "19",
+            "title": "Kotlin",
+            "tags": [
+                "programming"
+            ],
+            "description": "Modern language for JVM and Android"
+        },
+        {
+            "id": "20",
+            "title": "Swift",
+            "tags": [
+                "programming"
+            ],
+            "description": "Language for iOS/macOS development"
+        },
+        {
+            "id": "21",
+            "title": "PHP",
+            "tags": [
+                "programming"
+            ],
+            "description": "Server-side scripting language"
+        },
+        {
+            "id": "22",
+            "title": "Laravel",
+            "tags": [
+                "framework",
+                "php"
+            ],
+            "description": "Web framework for PHP"
+        },
+        {
+            "id": "23",
+            "title": "Svelte",
+            "tags": [
+                "framework",
+                "javascript"
+            ],
+            "description": "Compile-time JS framework"
+        },
+        {
+            "id": "24",
+            "title": "Next.js",
+            "tags": [
+                "framework",
+                "react"
+            ],
+            "description": "React framework for SSR and static sites"
+        },
+        {
+            "id": "25",
+            "title": "Nuxt.js",
+            "tags": [
+                "framework",
+                "vue"
+            ],
+            "description": "Vue framework for SSR and static sites"
+        },
+        {
+            "id": "26",
+            "title": "GraphQL",
+            "tags": [
+                "query",
+                "api"
+            ],
+            "description": "Query language for APIs"
+        },
+        {
+            "id": "27",
+            "title": "Apollo Client",
+            "tags": [
+                "library",
+                "graphql"
+            ],
+            "description": "GraphQL client for front-end"
+        },
+        {
+            "id": "28",
+            "title": "Apollo Server",
+            "tags": [
+                "library",
+                "graphql"
+            ],
+            "description": "GraphQL server implementation"
+        },
+        {
+            "id": "29",
+            "title": "Redux",
+            "tags": [
+                "library",
+                "react"
+            ],
+            "description": "State management library"
+        },
+        {
+            "id": "30",
+            "title": "MobX",
+            "tags": [
+                "library",
+                "react"
+            ],
+            "description": "Observable state management"
+        },
+        {
+            "id": "31",
+            "title": "Webpack",
+            "tags": [
+                "tool",
+                "bundler"
+            ],
+            "description": "Module bundler for JavaScript"
+        },
+        {
+            "id": "32",
+            "title": "Vite",
+            "tags": [
+                "tool",
+                "bundler"
+            ],
+            "description": "Fast front-end build tool"
+        },
+        {
+            "id": "33",
+            "title": "Babel",
+            "tags": [
+                "tool",
+                "compiler"
+            ],
+            "description": "JavaScript compiler for modern syntax"
+        },
+        {
+            "id": "34",
+            "title": "ESLint",
+            "tags": [
+                "tool",
+                "linter"
+            ],
+            "description": "JavaScript/TypeScript linter"
+        },
+        {
+            "id": "35",
+            "title": "Prettier",
+            "tags": [
+                "tool",
+                "formatter"
+            ],
+            "description": "Code formatter"
+        },
+        {
+            "id": "36",
+            "title": "Jest",
+            "tags": [
+                "tool",
+                "testing"
+            ],
+            "description": "JavaScript testing framework"
+        },
+        {
+            "id": "37",
+            "title": "Mocha",
+            "tags": [
+                "tool",
+                "testing"
+            ],
+            "description": "JS test framework for Node.js"
+        },
+        {
+            "id": "38",
+            "title": "Chai",
+            "tags": [
+                "library",
+                "testing"
+            ],
+            "description": "Assertion library for tests"
+        },
+        {
+            "id": "39",
+            "title": "TypeORM",
+            "tags": [
+                "library",
+                "node"
+            ],
+            "description": "ORM for TypeScript/Node.js"
+        },
+        {
+            "id": "40",
+            "title": "Prisma",
+            "tags": [
+                "library",
+                "node"
+            ],
+            "description": "Next-gen TypeScript ORM"
+        },
+        {
+            "id": "41",
+            "title": "MongoDB",
+            "tags": [
+                "database",
+                "nosql"
+            ],
+            "description": "Document-oriented database"
+        },
+        {
+            "id": "42",
+            "title": "PostgreSQL",
+            "tags": [
+                "database",
+                "sql"
+            ],
+            "description": "Relational database system"
+        },
+        {
+            "id": "43",
+            "title": "MySQL",
+            "tags": [
+                "database",
+                "sql"
+            ],
+            "description": "Open-source relational database"
+        },
+        {
+            "id": "44",
+            "title": "Redis",
+            "tags": [
+                "database",
+                "cache"
+            ],
+            "description": "In-memory key-value store"
+        },
+        {
+            "id": "45",
+            "title": "Docker",
+            "tags": [
+                "tool",
+                "container"
+            ],
+            "description": "Containerization platform"
+        },
+        {
+            "id": "46",
+            "title": "Kubernetes",
+            "tags": [
+                "tool",
+                "orchestration"
+            ],
+            "description": "Container orchestration system"
+        },
+        {
+            "id": "47",
+            "title": "Git",
+            "tags": [
+                "tool",
+                "version-control"
+            ],
+            "description": "Version control system"
+        },
+        {
+            "id": "48",
+            "title": "GitHub",
+            "tags": [
+                "tool",
+                "platform"
+            ],
+            "description": "Git repository hosting service"
+        },
+        {
+            "id": "49",
+            "title": "VS Code",
+            "tags": [
+                "tool",
+                "editor"
+            ],
+            "description": "Popular code editor"
+        },
+        {
+            "id": "50",
+            "title": "Jira",
+            "tags": [
+                "tool",
+                "project-management"
+            ],
+            "description": "Project management tool"
+        },
+        {
+            "id": "51",
+            "title": "HTML",
+            "tags": [
+                "markup"
+            ],
+            "description": "HyperText Markup Language"
+        },
+        {
+            "id": "52",
+            "title": "CSS",
+            "tags": [
+                "style"
+            ],
+            "description": "Cascading Style Sheets"
+        },
+        {
+            "id": "53",
+            "title": "Tailwind CSS",
+            "tags": [
+                "library",
+                "css"
+            ],
+            "description": "Utility-first CSS framework"
+        },
+        {
+            "id": "54",
+            "title": "Bootstrap",
+            "tags": [
+                "library",
+                "css"
+            ],
+            "description": "Popular CSS framework"
+        },
+        {
+            "id": "55",
+            "title": "Sass",
+            "tags": [
+                "library",
+                "css"
+            ],
+            "description": "CSS preprocessor"
+        },
+        {
+            "id": "56",
+            "title": "Less",
+            "tags": [
+                "library",
+                "css"
+            ],
+            "description": "CSS preprocessor"
+        },
+        {
+            "id": "57",
+            "title": "Webpack Dev Server",
+            "tags": [
+                "tool",
+                "dev-server"
+            ],
+            "description": "Development server for Webpack"
+        },
+        {
+            "id": "58",
+            "title": "Storybook",
+            "tags": [
+                "tool",
+                "ui"
+            ],
+            "description": "UI component explorer"
+        },
+        {
+            "id": "59",
+            "title": "Electron",
+            "tags": [
+                "framework",
+                "desktop"
+            ],
+            "description": "Build desktop apps with JS"
+        },
+        {
+            "id": "60",
+            "title": "React Native",
+            "tags": [
+                "framework",
+                "mobile"
+            ],
+            "description": "Build mobile apps with React"
+        },
+        {
+            "id": "1771838746030",
+            "title": "fksdf",
+            "description": "fksdjfs",
+            "tags": [
+                "ksdjfksdj"
+            ]
+        },
+        {
+            "id": "1771838870464",
+            "title": "test",
+            "description": "test",
+            "tags": [
+                "test"
+            ]
+        }
+    ],
+    "edges": [
+        {
+            "id": "e1",
+            "from": "2",
+            "to": "1",
+            "relationship": "influences"
+        },
+        {
+            "id": "e2",
+            "from": "2",
+            "to": "3",
+            "relationship": "supports"
+        },
+        {
+            "id": "e3",
+            "from": "2",
+            "to": "4",
+            "relationship": "runs on"
+        },
+        {
+            "id": "e4",
+            "from": "4",
+            "to": "5",
+            "relationship": "supports"
+        },
+        {
+            "id": "e5",
+            "from": "3",
+            "to": "24",
+            "relationship": "framework"
+        },
+        {
+            "id": "e6",
+            "from": "6",
+            "to": "25",
+            "relationship": "framework"
+        },
+        {
+            "id": "e7",
+            "from": "8",
+            "to": "9",
+            "relationship": "supports"
+        },
+        {
+            "id": "e8",
+            "from": "8",
+            "to": "10",
+            "relationship": "supports"
+        },
+        {
+            "id": "e9",
+            "from": "11",
+            "to": "13",
+            "relationship": "influences"
+        },
+        {
+            "id": "e10",
+            "from": "13",
+            "to": "14",
+            "relationship": "supports"
+        },
+        {
+            "id": "e11",
+            "from": "15",
+            "to": "16",
+            "relationship": "supports"
+        },
+        {
+            "id": "e12",
+            "from": "19",
+            "to": "13",
+            "relationship": "runs on JVM"
+        },
+        {
+            "id": "e13",
+            "from": "21",
+            "to": "22",
+            "relationship": "supports"
+        },
+        {
+            "id": "e14",
+            "from": "26",
+            "to": "27",
+            "relationship": "used by"
+        },
+        {
+            "id": "e15",
+            "from": "26",
+            "to": "28",
+            "relationship": "used by"
+        },
+        {
+            "id": "e16",
+            "from": "3",
+            "to": "29",
+            "relationship": "supports"
+        },
+        {
+            "id": "e17",
+            "from": "3",
+            "to": "30",
+            "relationship": "supports"
+        },
+        {
+            "id": "e18",
+            "from": "31",
+            "to": "33",
+            "relationship": "uses"
+        },
+        {
+            "id": "e19",
+            "from": "32",
+            "to": "3",
+            "relationship": "builds"
+        },
+        {
+            "id": "e20",
+            "from": "39",
+            "to": "4",
+            "relationship": "works with"
+        },
+        {
+            "id": "e21",
+            "from": "40",
+            "to": "4",
+            "relationship": "works with"
+        },
+        {
+            "id": "e22",
+            "from": "41",
+            "to": "4",
+            "relationship": "stores data for"
+        },
+        {
+            "id": "e23",
+            "from": "42",
+            "to": "13",
+            "relationship": "stores data for"
+        },
+        {
+            "id": "e24",
+            "from": "43",
+            "to": "4",
+            "relationship": "stores data for"
+        },
+        {
+            "id": "e25",
+            "from": "44",
+            "to": "4",
+            "relationship": "caches data for"
+        },
+        {
+            "id": "e26",
+            "from": "45",
+            "to": "4",
+            "relationship": "containers for"
+        },
+        {
+            "id": "e27",
+            "from": "46",
+            "to": "45",
+            "relationship": "orchestrates"
+        },
+        {
+            "id": "e28",
+            "from": "51",
+            "to": "2",
+            "relationship": "used by"
+        },
+        {
+            "id": "e29",
+            "from": "52",
+            "to": "2",
+            "relationship": "used by"
+        },
+        {
+            "id": "e30",
+            "from": "53",
+            "to": "2",
+            "relationship": "used by"
+        },
+        {
+            "id": "e31",
+            "from": "54",
+            "to": "2",
+            "relationship": "used by"
+        },
+        {
+            "id": "e32",
+            "from": "55",
+            "to": "2",
+            "relationship": "preprocesses"
+        },
+        {
+            "id": "e33",
+            "from": "56",
+            "to": "2",
+            "relationship": "preprocesses"
+        },
+        {
+            "id": "e34",
+            "from": "3",
+            "to": "58",
+            "relationship": "explores components with"
+        },
+        {
+            "id": "e35",
+            "from": "59",
+            "to": "2",
+            "relationship": "builds on"
+        },
+        {
+            "id": "e36",
+            "from": "60",
+            "to": "3",
+            "relationship": "builds on"
+        },
+        {
+            "id": "1771838756787",
+            "from": "2",
+            "to": "18",
+            "relationship": "fksdjfks"
+        },
+        {
+            "id": "1771838930109",
+            "from": "1771838870464",
+            "to": "1771838746030",
+            "relationship": "fksdjfks"
+        }
+    ]
+}
